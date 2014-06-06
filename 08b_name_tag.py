@@ -1,4 +1,8 @@
 # Compute a name tag, given the first and last name.
+# Give the pre-defined variables first_name and last_name, 
+# write an assignment statement that defines the variable 
+# name_tag whose value is the string "My name is % %." where 
+# the percents should be replaced by first_name and last_name.
 
 ###################################################
 # Tests

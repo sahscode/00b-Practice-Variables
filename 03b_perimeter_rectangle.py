@@ -1,4 +1,8 @@
 # Compute the length of a rectangle's perimeter, given its width and height.
+# Given a template that pre-defines the variables width and height that are 
+# the lengths of the sides of a rectangle, write an assignment statement 
+# that defines a variable perimeter whose value is the perimeter of the 
+# rectangle in inches.
 
 ###################################################
 # Tests

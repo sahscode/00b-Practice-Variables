@@ -1,4 +1,7 @@
 # Compute the future value of a given present value, annual rate, and number of years.
+# Given the pre-defined variables present_value, annual_rate and years, write an assignment 
+# statement that define a variable future_value whose value is present_value dollars 
+# invested at annual_rate percent interest, compounded annually for years years.
 
 ###################################################
 # Tests

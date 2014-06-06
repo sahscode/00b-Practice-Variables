@@ -1,4 +1,8 @@
 # Compute the area of a circle, given the length of its radius.
+# Given a template that pre-defines the constant PI and the 
+# variable radius corresponding to the radius of a circle in inches, 
+# write an assignment statement that defines a variable area whose 
+# value is the area of a circle with radius radius in square inches.
 
 ###################################################
 # Tests

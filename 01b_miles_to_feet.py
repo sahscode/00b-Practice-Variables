@@ -1,4 +1,7 @@
 # Compute the number of feet corresponding to a number of miles.
+# Given a template that pre-defines a variable miles, write an 
+# assignment statement that defines a variable feet whose value 
+# is the number of feet in miles miles.
 
 ###################################################
 # Tests

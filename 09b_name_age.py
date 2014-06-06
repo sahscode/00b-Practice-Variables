@@ -1,4 +1,7 @@
 # Compute the statement about a person's name and age, given the person's name and age.
+# Given the pre-defined variables name (a string) and age (a number), write an assignment 
+# statement that defines a variable statement whose value is the string "% is % years old." 
+# where the percents should be replaced by name and the string form of age.
 
 ###################################################
 # Tests

@@ -1,4 +1,7 @@
 # Compute the distance between the points (x0, y0) and (x1, y1).
+# Given the variables x0, y0, x1, and y1, write an assignment 
+# statement that defines a variable distance whose values is the 
+# distance between the points (x0,y0) and (x1,y1).
 
 ###################################################
 # Tests
