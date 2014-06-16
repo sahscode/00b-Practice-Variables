@@ -23,7 +23,7 @@ miles = 13
 # Miles to feet conversion formula
 # Student should enter formula on the next line.
 
-
+feet = miles * 5280
 
 ###################################################
 # Test output
